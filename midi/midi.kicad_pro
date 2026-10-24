@@ -658,13 +658,18 @@
       {
         "filename": "midi.kicad_sch",
         "name": "midi",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "17ec93b8-04b2-4fcf-99ac-b11c52a385d2"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "17ec93b8-04b2-4fcf-99ac-b11c52a385d2",
+      "midi"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
