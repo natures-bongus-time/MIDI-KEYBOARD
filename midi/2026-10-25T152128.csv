@@ -1,6 +1,6 @@
-﻿"Index","Quantity","Part Number","Manufacturer Part Number","Description","Unit of Measure","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
-"1","1","PTA1543-2010CIB103-ND","PTA1543-2010CIB103","SLIDE POT 10K OHM 0.05W TOP 15MM","","","1","0","1.84000","$1.84"
-"2","3","EG6028-ND","TL2201OAYA","SWITCH PUSH DPDT 0.1A 30V","","","3","0","0.89000","$2.67"
-"3","1","PEC11R-4215K-S0024-ND","PEC11R-4215K-S0024","ENCODER MECH QUAD VERT PC PIN","","","1","0","2.80000","$2.80"
-"4","7","1790-IQS228B00000000TSRCT-ND","IQS228B00000000TSR","CAPACITIVE TOUCH SENSOR","","","7","0","0.42000","$2.94"
+"Quantity","Part Number","Manufacturer Part Number","Description","Unit of Measure","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
+"1","SLIDE POT 10K OHM 0.05W TOP 15MM", "1.84000","$1.84"
+"3","SWITCH PUSH DPDT 0.1A 30V","0.89000","$2.67"
+"1","ENCODER MECH QUAD VERT PC PIN","2.80000","$2.80"
+"7","CAPACITIVE TOUCH SENSOR","0.42000","$2.94"
 
