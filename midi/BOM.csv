@@ -3,4 +3,5 @@
 "3","SWITCH PUSH DPDT 0.1A 30V","0.89000","digikey","$2.67","https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531"
 "1","ENCODER MECH QUAD VERT PC PIN","2.80000","digikey","$2.80","https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4215K-S0024/4499662"
 "7","CAPACITIVE TOUCH SENSOR","0.42000","digikey","$2.94","https://www.digikey.com/en/products/detail/azoteq-pty-ltd/IQS228B00000000TSR/13663636"
-
+"1","PCB","0.10","JLPCB","$0.10","https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010"
+"1","esp-32 s3","12.5","amazon",$12.50","https://www.amazon.com/gp/product/B0CSD5NZDJ/ref=ox_sc_act_image_1?smid=A2SA28G0M1VPHD&psc=1"
